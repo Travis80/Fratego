@@ -1,2 +1,2 @@
 # Fratego
-Free strategy game I work on
+Free strategy game that I hope I can consistently work on
